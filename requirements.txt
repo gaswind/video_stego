@@ -1,0 +1,4 @@
+opencv-python>=4.9
+numpy>=1.26
+click>=8.1
+pytest>=8.0
