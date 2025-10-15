@@ -39,7 +39,7 @@ pip install -e .
 
 ### 1) Encoder un message
 ```bash
-video-stego encode --in sample.mp4 --out-frames out_frames --text "Salut EPITA 2025" --repack out_lossless.mkv
+video-stego encode --in sample.mp4 --out-frames out_frames --text "Ceci est mon message caché" --repack out_lossless.mkv
 ```
 - `--in` : vidéo source (sera **lue**, pas modifiée)
 - `--out-frames` : dossier de sortie des PNG encodés
