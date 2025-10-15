@@ -1,2 +1,2 @@
 # video_stego
-A script that words invisible in your video
+A script that make words invisible in your video
